@@ -4,7 +4,7 @@ Hello 👋 My name is Artem Musienko
 A beginner ML-engineer
 ------------------------
 
-My journey into IT started in 2018, when I began studying at university. Currently, I am enrolled in the course "Neural Network Developer", where I am learning about the latest developments in the field. I am also working on improving my English skills, and my current level is A2/B1. So far, I have completed a couple of small projects, but there are more to come in the future!
+My journey into IT started in 2018, when I began studying at university. Currently, I am enrolled in the course "Neural Network Developer", where I am learning about the latest developments in the field. I am also working on improving my English skills, and my current level is B1. So far, I have completed a couple of small projects, but there are more to come in the future!
 
 *   🌍  I'm based in Rostov-on-Don
 *   ✉️  You can contact me at [temich2001@yandex.ru](mailto:temich2001@yandex.ru)
