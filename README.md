@@ -25,3 +25,52 @@ Tehnology Stack
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemMusienko&theme=default_icons=true ) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMusienko&card_width=350&card_height=195)](https://git.io/streak-stats)
 
 </div>
+
+## My main projects:
+
+### 📌 Neuro employee with LangChain
+
+I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using OpenAI. The main technologies used for this project are LangChain, Gradio, and ChromaDB. [**Link to the project**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
+
+**Tehnology Stack:**  LangChain, Gradio and ChromaDB
+
+----------
+
+### 📌 ChatGPT TelegramBot
+
+I have developed a Telegram bot that has been trained on English language Wikipedia articles about the Academy Awards, and it supports conversations on this topic with the help of ChatGPT. [**Link to the project**](https://github.com/ArtemMusienko/ChatGPT-TelegramBot)
+
+**Tehnology Stack:**  Numpy, asyncio and Pandas
+
+----------
+
+### 📌 Regression task with Optuna
+
+I have completed the task of predicting the cost of Japanese cars using regression. For this purpose, I used technology to create features based on available data and select optimal hyperparameters with Optuna. The average absolute percentage error has decreased to 0.42% as a result.   [**Link to the project**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
+
+**Tehnology Stack:**  Keras, Numpy and Optuna
+
+----------
+
+### 📌 EfficientNetV2 dataset Stanford Dogs
+
+Work was carried out on the classification of dog images using the EfficientNetV2 method and image augmentation, which allowed to increase the amount of data for training the model and achieve an accuracy of 86%. [**Link to the project**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
+
+**Tehnology Stack:**  TensorFlow, EfficientNetV2B0, Numpy and Matplotlib
+
+----------
+
+### 📌 Embedding LSTM GRU
+
+A model has been created that allows us to determine which of the Russian writers is most suitable for the presented text in terms of presentation style. The model uses two types of recurrent layers — LSTM and GRU, as well as a pre-trained Embedding layer. This made it possible to achieve an accuracy of 91%. [**Link to the project**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
+
+**Tehnology Stack:**  Keras, Numpy, Razdel and Matplotlib
+
+----------
+
+**Education and courses**
+
+-   2025 Neural network developer, The Founder (professional retraining)
+-   2024 YandexGPT for beginners, electronic certificate
+-   2024 Digital literacy and Internet security, electronic certificate
+-   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (bachelor's degree)
