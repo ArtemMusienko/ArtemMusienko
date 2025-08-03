@@ -15,3 +15,4 @@ Skills:  <p align="left"> <a href="https://code.visualstudio.com/" target="_blan
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemMusienko&theme=cobalt&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMusienko&border_radius=5)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=your-github-ArtemMusienko&color=blue)
