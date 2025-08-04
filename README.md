@@ -10,11 +10,11 @@ My journey into IT started in 2018, when I began studying at Don State Technical
 
 My goal is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
 
--   🌍 I'm based in Russia, Rostov-on-Don
--   ✉️ You can contact me at by email [temich2001@yandex.ru](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a)
--   🧠 I'm learning Python, SQL and how neural networks work
--   🤝 I'm open to collaborating on for startups in ML and Kaggle competitions
--   ⚡ [My resume](https://disk.yandex.ru/i/94gdl5xip4nJTg)
+-   🌍 I'm based in Russia, Rostov-on-Don;
+-   ✉️ You can contact me at by email [temich2001@yandex.ru](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
+-   🧠 I'm learning Python, SQL and how neural networks work;
+-   🤝 I'm open to collaborating on for startups in ML and Kaggle competitions;
+-   ⚡ [My resume](https://disk.yandex.ru/i/94gdl5xip4nJTg).
 
 <div align="center">
   
@@ -70,7 +70,7 @@ A model has been created that allows us to determine which of the Russian writer
 
 **Education and courses**
 
--   2025 Neural network developer, The Founder (professional retraining)
--   2024 YandexGPT for beginners, electronic certificate
--   2024 Digital literacy and Internet security, electronic certificate
--   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (bachelor's degree)
+-   2025 Neural network developer, The Founder (professional retraining);
+-   2024 YandexGPT for beginners, electronic certificate;
+-   2024 Digital literacy and Internet security, electronic certificate;
+-   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (bachelor's degree).
