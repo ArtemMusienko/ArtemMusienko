@@ -70,7 +70,7 @@ A model has been created that allows us to determine which of the Russian writer
 
 ## Education and courses
 
--   2025 Neural network developer, The Founder (professional retraining);
--   2024 YandexGPT for beginners, electronic certificate;
--   2024 Digital literacy and Internet security, electronic certificate;
--   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (bachelor's degree).
+-   2025 Neural network developer, The Founder (*professional retraining*);
+-   2024 YandexGPT for beginners, *electronic certificate*;
+-   2024 Digital literacy and Internet security, *electronic certificate*;
+-   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (*bachelor's degree*).
