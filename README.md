@@ -68,7 +68,7 @@ A model has been created that allows us to determine which of the Russian writer
 
 ----------
 
-**Education and courses**
+## Education and courses
 
 -   2025 Neural network developer, The Founder (professional retraining);
 -   2024 YandexGPT for beginners, electronic certificate;
