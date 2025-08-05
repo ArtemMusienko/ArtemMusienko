@@ -11,7 +11,7 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 My goal is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
 
 -   🌍 I'm based in Russia, Rostov-on-Don;
--   ✉️ You can contact me at by email [temich2001@yandex.ru](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
+-   ✉️ You can contact me at by [email](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
 -   🧠 I'm learning Python, SQL and how neural networks work;
 -   🤝 I'm open to collaborating on for startups in ML and Kaggle competitions;
 -   ⚡ [My resume](https://disk.yandex.ru/i/94gdl5xip4nJTg).
