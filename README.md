@@ -8,7 +8,7 @@
 
 My journey into **IT** started in **2018**, when I began studying at **Don State Technical University**. Currently :mortar_board:, I am enrolled in the course **"Neural Network Developer"**, where I am learning about the latest developments in the field :computer:. I am also working on improving my English skills, and my current level is **B1** :books:.
 
-My goal is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
+**My goal** is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
 
 -   🌍 I'm based in Russia, Rostov-on-Don;
 -   ✉️ You can contact me at by [email](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
