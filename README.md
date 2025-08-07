@@ -24,9 +24,9 @@ Main tehnology stack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemMusienko&theme=default_icons=true ) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMusienko&card_width=350&card_height=195)](https://git.io/streak-stats)
 
-</div>
-
 ## Main projects
+
+</div>
 
 ### 📌 Neuro employee with LangChain
 
@@ -68,7 +68,11 @@ A model has been created that allows us to determine which of the Russian writer
 
 ----------
 
+<div align="center">
+
 ## Education and courses
+
+</div>
 
 -   2025 Neural network developer, The Founder (*professional retraining*);
 -   2024 YandexGPT for beginners, *electronic certificate*;
