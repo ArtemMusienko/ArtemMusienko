@@ -26,7 +26,7 @@ Main tehnology stack
 
 </div>
 
-## Main projects:
+## Main projects
 
 ### 📌 Neuro employee with LangChain
 
