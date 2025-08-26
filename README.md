@@ -36,11 +36,19 @@ I have created a chatbot based on neural networks that can answer customer quest
 
 ----------
 
-### 📌 ChatGPT TelegramBot
+### 📌 Technical consultant in the RAG system
 
-I have developed a Telegram bot that has been trained on English language Wikipedia articles about the Academy Awards, and it supports conversations on this topic with the help of ChatGPT. [**Link to the project**](https://github.com/ArtemMusienko/ChatGPT-TelegramBot)
+I created a neuro-employee with the profession of a technical consultant in the form of a RAG system. He is able to respond to user queries by getting information from the knowledge base - a Google document, as well as filtering the output data. For a more correct and better operation of the RAG system, the following approaches have been implemented to solve the problem of "**pain points**":
 
-**Tehnology Stack: Numpy, asyncio and Pandas**
+ - **Pain point 1:** missing content (implemented data cleanup and   
+   improvement of prompts);
+ - **Pain point 4:** Handling Inconsistencies in Retrieved Information;
+ - **Pain point 8:** Scalability of the received data;
+ - **Pain Point 12:** LLM security (**NeMo Guardrails**).
+
+[**Link to the project**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
+
+**Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**
 
 ----------
 
