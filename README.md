@@ -32,9 +32,9 @@ Main tehnology stack
 
 I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
 
-[**Link to the project**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
-
 **Tehnology Stack: LangChain, Gradio and ChromaDB**
+
+[**Link to the project**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
 
 ----------
 
@@ -48,9 +48,9 @@ I created a neuro-employee with the profession of a technical consultant in the 
  - **Pain point 8:** Scalability of the received data;
  - **Pain Point 12:** LLM security (**NeMo Guardrails**).
 
-[**Link to the project**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
-
 **Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**
+
+[**Link to the project**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
 
 ----------
 
@@ -58,9 +58,9 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 I have completed the task of predicting the cost of Japanese cars using regression. For this purpose, I used technology to create features based on available data and select optimal hyperparameters with **Optuna**. The average absolute percentage error has decreased to 0.42% as a result.   
 
-[**Link to the project**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
-
 **Tehnology Stack: Keras, Numpy and Optuna**
+
+[**Link to the project**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
 
 ----------
 
@@ -68,9 +68,9 @@ I have completed the task of predicting the cost of Japanese cars using regressi
 
 Work was carried out on the classification of dog images using the **EfficientNetV2** method and image augmentation, which allowed to increase the amount of data for training the model and achieve an accuracy of 86%. 
 
-[**Link to the project**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
-
 **Tehnology Stack: TensorFlow, EfficientNetV2B0, Numpy and Matplotlib**
+
+[**Link to the project**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
 
 ----------
 
@@ -78,9 +78,9 @@ Work was carried out on the classification of dog images using the **EfficientNe
 
 A model has been created that allows us to determine which of the Russian writers is most suitable for the presented text in terms of presentation style. The model uses two types of recurrent layers — **LSTM** and **GRU**, as well as a pre-trained **Embedding layer**. This made it possible to achieve an accuracy of 91%. 
 
-[**Link to the project**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
-
 **Tehnology Stack: Keras, Numpy, Razdel and Matplotlib**
+
+[**Link to the project**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
 
 ----------
 
