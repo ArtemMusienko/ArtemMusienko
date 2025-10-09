@@ -32,9 +32,9 @@ Main tehnology stack
 
 I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
 
-**Tehnology Stack: LangChain, Gradio and ChromaDB**
+**Tehnology Stack: LangChain, Gradio and ChromaDB**.
 
-[**Link to the project**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
+[**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
 
 ----------
 
@@ -48,9 +48,9 @@ I created a neuro-employee with the profession of a technical consultant in the 
  - **Pain point 8:** Scalability of the received data;
  - **Pain Point 12:** LLM security (**NeMo Guardrails**).
 
-**Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**
+**Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**.
 
-[**Link to the project**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
+[**Link to the project.**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
 
 ----------
 
@@ -68,9 +68,9 @@ I have completed the task of predicting the cost of Japanese cars using regressi
 
 Work was carried out on the classification of dog images using the **EfficientNetV2** method and image augmentation, which allowed to increase the amount of data for training the model and achieve an accuracy of 86%. 
 
-**Tehnology Stack: TensorFlow, EfficientNetV2B0, Numpy and Matplotlib**
+**Tehnology Stack: TensorFlow, EfficientNetV2B0, Numpy and Matplotlib**.
 
-[**Link to the project**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
+[**Link to the project.**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
 
 ----------
 
@@ -78,9 +78,9 @@ Work was carried out on the classification of dog images using the **EfficientNe
 
 A model has been created that allows us to determine which of the Russian writers is most suitable for the presented text in terms of presentation style. The model uses two types of recurrent layers — **LSTM** and **GRU**, as well as a pre-trained **Embedding layer**. This made it possible to achieve an accuracy of 91%. 
 
-**Tehnology Stack: Keras, Numpy, Razdel and Matplotlib**
+**Tehnology Stack: Keras, Numpy, Razdel and Matplotlib**.
 
-[**Link to the project**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
+[**Link to the project.**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
 
 ----------
 
