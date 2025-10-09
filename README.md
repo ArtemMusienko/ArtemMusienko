@@ -58,9 +58,9 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 I have completed the task of predicting the cost of Japanese cars using regression. For this purpose, I used technology to create features based on available data and select optimal hyperparameters with **Optuna**. The average absolute percentage error has decreased to 0.42% as a result.   
 
-**Tehnology Stack: Keras, Numpy and Optuna**
+**Tehnology Stack: Keras, Numpy and Optuna**.
 
-[**Link to the project**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
+[**Link to the project.**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
 
 ----------
 
