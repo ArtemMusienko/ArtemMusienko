@@ -28,13 +28,23 @@ Main tehnology stack
 
 </div>
 
-### 📌 Neuro employee with LangChain
+### 📌 YOLOv8 vehicle detection
 
-I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
+I have developed the **YOLOv8** model to detect vehicles in low light conditions. To improve recognition accuracy, the model is trained on specially prepared images that simulate different levels of illumination. This allows you to improve object recognition in real conditions. The dataset structure is flexible: in addition to augmented data, you can include original images, which will positively affect the quality of the model. Additional tests were also conducted and optimization techniques were applied, which significantly improved code performance.
 
-**Tehnology Stack: LangChain, Gradio and ChromaDB**.
+**Tehnology Stack: YOLOv8, OpenCV and albumentations**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
+[**Link to the project.**](https://github.com/ArtemMusienko/YOLOv8-vehicle-detection)
+
+----------
+
+### 📌 BipedalWalker v3 with DDPQ and PPO
+
+For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
+
+**Tehnology Stack: PyTorch, gymnasium, DDPQ and PPO**.
+
+[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
 
 ----------
 
@@ -54,35 +64,23 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 ----------
 
-### 📌 Regression task with Optuna
+### 📌 Neuro employee with LangChain
 
-I have completed the task of predicting the cost of Japanese cars using regression. For this purpose, I used technology to create features based on available data and select optimal hyperparameters with **Optuna**. The average absolute percentage error has decreased to 0.42% as a result.   
+I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
 
-**Tehnology Stack: Keras, Numpy and Optuna**.
+**Tehnology Stack: LangChain, Gradio and ChromaDB**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/Regression-task-with-Optuna)
-
-----------
-
-### 📌 EfficientNetV2 dataset Stanford Dogs
-
-Work was carried out on the classification of dog images using the **EfficientNetV2** method and image augmentation, which allowed to increase the amount of data for training the model and achieve an accuracy of 86%. 
-
-**Tehnology Stack: TensorFlow, EfficientNetV2B0, Numpy and Matplotlib**.
-
-[**Link to the project.**](https://github.com/ArtemMusienko/EfficientNetV2-dataset-Stanford-Dogs)
+[**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
 
 ----------
 
-### 📌 Embedding LSTM GRU
+### 📌 English Portuguese Translator
 
-A model has been created that allows us to determine which of the Russian writers is most suitable for the presented text in terms of presentation style. The model uses two types of recurrent layers — **LSTM** and **GRU**, as well as a pre-trained **Embedding layer**. This made it possible to achieve an accuracy of 91%. 
+I have implemented an English-Portuguese translator based on a recurrent autoencoder. The BPE tokenizer is used to improve translation quality, which is especially useful for processing rare words and languages with rich morphology.
 
-**Tehnology Stack: Keras, Numpy, Razdel and Matplotlib**.
+**Tehnology Stack: Autoencoder, Tensorflow, Keras and BPE tokenization**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/Embedding-LSTM-GRU)
-
-----------
+[**Link to the project.**](https://github.com/ArtemMusienko/English-Portuguese-Translator)
 
 <div align="center">
 
