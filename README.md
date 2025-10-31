@@ -62,6 +62,16 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 ----------
 
+### 📌 RL ALEMsPacman-v5
+
+I have implemented Reinforcement Learning (RL). The following "ALE/MsPacman-v5" option was chosen as the game and its version. To demonstrate the work of this approach, two algorithms were chosen, namely: a random search strategy and a climbing algorithm to the top. The best algorithm for this environment has been determined and the best result is displayed as a GIF format.
+
+**Tehnology Stack: gymnasium, PyTorch, random search strategy and climbing algorithm to the top**.
+
+[**Link to the project.**](https://github.com/ArtemMusienko/RL-ALEMsPacman-v5)
+
+----------
+
 ### 📌 Neuro employee with LangChain
 
 I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
@@ -69,6 +79,16 @@ I have created a chatbot based on neural networks that can answer customer quest
 **Tehnology Stack: LangChain, Gradio and ChromaDB**.
 
 [**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
+
+----------
+
+### 📌 ROBERTA-large classification
+
+I have developed a class prediction system based on a dataset with news. I chose ai-forever/ruRoberta-large, which belongs to the BERT family, as the model. Before training the model, I performed filtering and preprocessing of the data. These steps have significantly improved the quality of the model's predictions.
+
+**Tehnology Stack: ROBERTA, sklearn, TensorFlow, Keras and Numpy**.
+
+[**Link to the project.**](https://github.com/ArtemMusienko/ROBERTA-large-classification)
 
 ----------
 
