@@ -52,8 +52,8 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
  - **Pain point 1:** missing content (implemented data cleanup and   
    improvement of prompts);
- - **Pain point 4:** Handling Inconsistencies in Retrieved Information;
- - **Pain point 8:** Scalability of the received data;
+ - **Pain point 4:** Handling Inconsistencies in Retrieved Information (a content resorter was used);
+ - **Pain point 8:** Scalability of the received data (parallel processing is used);
  - **Pain Point 12:** LLM security (**NeMo Guardrails**).
 
 **Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**.
