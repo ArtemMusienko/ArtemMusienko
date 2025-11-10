@@ -62,7 +62,7 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 ----------
 
-### 📌 RL ALEMsPacman-v5
+### 📌 RL-MsPacman-v5
 
 I have implemented Reinforcement Learning (RL). The following "ALE/MsPacman-v5" option was chosen as the game and its version. To demonstrate the work of this approach, two algorithms were chosen, namely: a random search strategy and a climbing algorithm to the top. The best algorithm for this environment has been determined and the best result is displayed as a GIF format.
 
