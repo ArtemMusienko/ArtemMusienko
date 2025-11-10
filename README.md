@@ -68,7 +68,7 @@ I have implemented Reinforcement Learning (RL). The following "ALE/MsPacman-v5" 
 
 **Tehnology Stack: gymnasium, PyTorch, random search strategy and climbing algorithm to the top**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/RL-ALEMsPacman-v5)
+[**Link to the project.**](https://github.com/ArtemMusienko/RL-MsPacman-v5)
 
 ----------
 
