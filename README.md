@@ -17,6 +17,8 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 -   ⚡ [My resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg).
 
 <div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemMusienko&card_width=350&card_height=195)](https://git.io/streak-stats)
   
 Main tehnology stack
 ------------------------
