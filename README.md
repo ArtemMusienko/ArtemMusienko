@@ -106,7 +106,7 @@ I have implemented an English-Portuguese translator based on a recurrent autoenc
 
 </div>
 
--   2025 Neural network developer, The Founder (*professional retraining*);
--   2024 YandexGPT for beginners, *electronic certificate*;
--   2024 Digital literacy and Internet security, *electronic certificate*;
--   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (*bachelor's degree*).
+-   2025 Neural network developer, The Founder (*[professional retraining](https://disk.yandex.ru/i/rGUPdYoUJSUvjA)*);
+-   2024 YandexGPT for beginners *[electronic certificate](https://disk.yandex.ru/d/LJRzAnYwuYDVmg)*;
+-   2024 Digital literacy and Internet security *[electronic certificate](https://disk.yandex.ru/d/4b0oe04S6gQoyw)*;
+-   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (*[bachelor's degree](https://disk.yandex.ru/i/c2LYw7MzS7vrcw)*).
