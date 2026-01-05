@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Good afternoon! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artem Musienko
@@ -36,13 +37,13 @@ I have developed the **YOLOv8** model to detect vehicles in low light conditions
 
 ----------
 
-### 📌 BipedalWalker v3 with DDPQ and PPO
+### 📌 OpenRouter chat authorization
 
-For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
+I have developed a chat application that integrates with OpenRouter.ai , providing unified access to dozens of powerful artificial intelligence models using a single API key. The application supports PIN-based secure login and API key protection, automatic loading of available models at startup, a searchable drop-down list for selecting a model, real-time account balance display, and full compatibility with OpenAI query formats for smooth switching between vendors without changing the code. This setting is ideal for testing, comparing models, and making effective use of free-tier constraints.
 
-**Tehnology Stack: PyTorch, gymnasium, DDPQ and PPO**.
+**Technology Stack: Python, OpenRouter API.**
 
-[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
+[**Link to the project.**](https://github.com/ArtemMusienko/openrouter-chat-authorization)
 
 ----------
 
@@ -59,6 +60,16 @@ I created a neuro-employee with the profession of a technical consultant in the 
 **Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**.
 
 [**Link to the project.**](https://github.com/ArtemMusienko/Technical-consultant-in-the-RAG-system)
+
+----------
+
+### 📌 BipedalWalker v3 with DDPQ and PPO
+
+For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
+
+**Tehnology Stack: PyTorch, gymnasium, DDPQ and PPO**.
+
+[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
 
 ----------
 
@@ -91,14 +102,6 @@ I have developed a class prediction system based on a dataset with news. I chose
 [**Link to the project.**](https://github.com/ArtemMusienko/ROBERTA-large-classification)
 
 ----------
-
-### 📌 English Portuguese Translator
-
-I have implemented an English-Portuguese translator based on a recurrent autoencoder. The BPE tokenizer is used to improve translation quality, which is especially useful for processing rare words and languages with rich morphology.
-
-**Tehnology Stack: Autoencoder, Tensorflow, Keras and BPE tokenization**.
-
-[**Link to the project.**](https://github.com/ArtemMusienko/English-Portuguese-Translator)
 
 <div align="center">
 
