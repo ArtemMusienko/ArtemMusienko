@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Good afternoon! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artem Musienko
@@ -7,7 +6,7 @@
 
 </div>
 
-My journey into **IT** started in **2018**, when I began studying at **Don State Technical University**. Currently :mortar_board:, I am enrolled in the course **"Neural Network Developer"**, where I am learning about the latest developments in the field :computer:. I am also working on improving my English skills, and my current level is **B1** :books:.
+My journey into **IT** started in **2018**, when I began studying at **Don State Technical University** :mortar_board:. I recently completed the Neural Network Developer course, where I studied the latest developments in this field :computer:. I am also working on improving my English skills, and my current level is **B1** :books:.
 
 **My goal** is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
 
@@ -15,7 +14,7 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 -   ✉️ You can contact me at by [email](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
 -   🧠 I'm learning Python, SQL and how neural networks work;
 -   🤝 I'm open to collaborating on for startups in ML and Kaggle competitions;
--   ⚡ [My resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg).
+-   ⚡ [Resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg), [LeetCode](https://leetcode.com/u/artemmusienko/).
 
 <div align="center">
  
