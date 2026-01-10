@@ -38,7 +38,7 @@ I have developed the **YOLOv8** model to detect vehicles in low light conditions
 
 ### 📌 OpenRouter chat authorization
 
-I have developed a chat application that integrates with OpenRouter.ai , providing unified access to dozens of powerful artificial intelligence models using a single API key. The application supports PIN-based secure login and API key protection, automatic loading of available models at startup, a searchable drop-down list for selecting a model, real-time account balance display, and full compatibility with OpenAI query formats for smooth switching between vendors without changing the code. This setting is ideal for testing, comparing models, and making effective use of free-tier constraints.
+I have developed a chat application that integrates with OpenRouter.ai , providing unified access to dozens of powerful artificial intelligence models using a single API key. The application supports PIN-based secure login and API key protection, automatic loading of available models at startup, a searchable drop-down list for selecting a model, real-time account balance display, and full compatibility with OpenAI query formats for smooth switching between vendors without changing the code. This setting is ideal for testing and comparing models.
 
 **Technology Stack: Python, OpenRouter API.**
 
