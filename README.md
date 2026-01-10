@@ -62,6 +62,16 @@ I created a neuro-employee with the profession of a technical consultant in the 
 
 ----------
 
+### 📌 Neuro employee with LangChain
+
+I created a chatbot based on a RAG system. He can answer customer questions, solve their problems, and provide information about the products and services offered by the online store. The chatbot uses a token counting algorithm, which allows you to save money and not use **OpenAI**. 
+
+**Tehnology Stack: LangChain, Gradio and ChromaDB**.
+
+[**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
+
+----------
+
 ### 📌 BipedalWalker v3 with DDPQ and PPO
 
 For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
@@ -79,16 +89,6 @@ I have implemented Reinforcement Learning (RL). The following "ALE/MsPacman-v5" 
 **Tehnology Stack: gymnasium, PyTorch, random search strategy and climbing algorithm to the top**.
 
 [**Link to the project.**](https://github.com/ArtemMusienko/RL-MsPacman-v5)
-
-----------
-
-### 📌 Neuro employee with LangChain
-
-I have created a chatbot based on neural networks that can answer customer questions, solve their problems, and provide information about the products and services offered by our online store. The chatbot uses a token counting algorithm to help save money and avoid using **OpenAI**. 
-
-**Tehnology Stack: LangChain, Gradio and ChromaDB**.
-
-[**Link to the project.**](https://github.com/ArtemMusienko/Neuro-employee-with-LangChain)
 
 ----------
 
