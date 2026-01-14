@@ -13,7 +13,7 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 -   🌍 I'm based in Russia, Rostov-on-Don;
 -   ✉️ You can contact me at by [email](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
 -   🧠 I'm learning Python, SQL and how neural networks work;
--   🤝 I'm open to collaborating on for startups in ML and Kaggle competitions;
+-   🤝 I'm open to collaborating on for startups in ML and Kaggle/LeetCode competitions;
 -   ⚡ [Resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg), [LeetCode](https://leetcode.com/u/artemmusienko/).
 
 <div align="center">
