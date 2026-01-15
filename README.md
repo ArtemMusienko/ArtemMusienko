@@ -109,6 +109,6 @@ I have developed a class prediction system based on a dataset with news. I chose
 </div>
 
 -   2025 Neural network developer, The Founder (*[professional retraining](https://disk.yandex.ru/i/rGUPdYoUJSUvjA)*);
--   2024 YandexGPT for beginners *[electronic certificate](https://disk.yandex.ru/d/LJRzAnYwuYDVmg)*;
--   2024 Digital literacy and Internet security *[electronic certificate](https://disk.yandex.ru/d/4b0oe04S6gQoyw)*;
+-   2024 YandexGPT for beginners (*[electronic certificate](https://disk.yandex.ru/d/LJRzAnYwuYDVmg)*);
+-   2024 Digital literacy and Internet security (*[electronic certificate](https://disk.yandex.ru/d/4b0oe04S6gQoyw)*);
 -   2022 Don State Technical University, Rostov-on-Don Informatics and Computer Engineering, Applied Computer Science (*[bachelor's degree](https://disk.yandex.ru/i/c2LYw7MzS7vrcw)*).
