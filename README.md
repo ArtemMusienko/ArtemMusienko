@@ -66,13 +66,13 @@ I created a chatbot based on a RAG system. He can answer customer questions, sol
 
 ----------
 
-### 📌 BipedalWalker v3 with DDPQ and PPO
+### 📌 ROBERTA-large classification
 
-For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
+I have developed a class prediction system based on a dataset with news. I chose ai-forever/ruRoberta-large, which belongs to the BERT family, as the model. Before training the model, I performed filtering and preprocessing of the data. These steps have significantly improved the quality of the model's predictions.
 
-**Tehnology Stack: PyTorch, gymnasium, DDPQ and PPO**.
+**Tehnology Stack: ROBERTA, sklearn, TensorFlow, Keras and Numpy**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
+[**Link to the project.**](https://github.com/ArtemMusienko/ROBERTA-large-classification)
 
 ----------
 
@@ -86,15 +86,13 @@ I have implemented Reinforcement Learning (RL). The following "ALE/MsPacman-v5" 
 
 ----------
 
-### 📌 ROBERTA-large classification
+### 📌 BipedalWalker v3 with DDPQ and PPO
 
-I have developed a class prediction system based on a dataset with news. I chose ai-forever/ruRoberta-large, which belongs to the BERT family, as the model. Before training the model, I performed filtering and preprocessing of the data. These steps have significantly improved the quality of the model's predictions.
+For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
 
-**Tehnology Stack: ROBERTA, sklearn, TensorFlow, Keras and Numpy**.
+**Tehnology Stack: PyTorch, gymnasium, DDPQ and PPO**.
 
-[**Link to the project.**](https://github.com/ArtemMusienko/ROBERTA-large-classification)
-
-----------
+[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
 
 <div align="center">
 
