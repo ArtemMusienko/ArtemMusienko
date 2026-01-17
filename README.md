@@ -48,13 +48,7 @@ I have developed a chat application that integrates with OpenRouter.ai , providi
 
 ### 📌 Technical consultant in the RAG system
 
-I created a neuro-employee with the profession of a technical consultant in the form of a **RAG system**. He is able to respond to user queries by getting information from the knowledge base - a Google document, as well as filtering the output data. For a more correct and better operation of the **RAG system**, the following approaches have been implemented to solve the problem of "**pain points**":
-
- - **Pain point 1:** missing content (implemented data cleanup and   
-   improvement of prompts);
- - **Pain point 4:** Handling Inconsistencies in Retrieved Information (a content resorter was used);
- - **Pain point 8:** Scalability of the received data (parallel processing is used);
- - **Pain Point 12:** LLM security (**NeMo Guardrails**).
+I have developed a **RAG** system in the form of a technical consultant neural worker, focusing on analyzing and processing data from a knowledge base (**Google** document). Implemented output filtering and solutions for key issues: data cleanup to eliminate missing content, resorting for accurate context extraction, parallel processing for scalability, and **LLM** security measures. This allowed for in-depth query analysis and the provision of relevant responses.
 
 **Tehnology Stack: LlamaIndex, HuggingFaceLLM and Phoenix**.
 
