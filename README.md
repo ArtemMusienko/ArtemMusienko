@@ -31,7 +31,7 @@ Main tehnology stack
 
 I have developed a project that demonstrates a full pipeline for fine-tuning **Stable Diffusion 1.5** using **LoRA** on the **CelebA** dataset to generate stylized faces from text descriptions. It includes automated data preparation (downloading, resizing, **BLIP** captions), model training, quality evaluation, and a **Gradio** web interface for text-to-image and img2img generation. The main feature is a low hardware threshold: **LoRA** with optimizations enables training on 4–6 GB VRAM GPUs, avoiding the 24 GB needed for full fine-tuning, while yielding high-quality results in a small **LoRA** file. This setup is ideal for experiments and learning **LoRA** on limited hardware.
 
-**Technology Stack: Python, Hugging Face Diffusers, LoRA, BLIP, Gradio, PyTorch, Google Drive.**
+**Technology Stack: LoRA, Hugging Face Diffusers, BLIP, PyTorch.**
 
 [**Link to the project.**](https://github.com/ArtemMusienko/LoRA-SD-Generator)
 
@@ -81,7 +81,7 @@ I created a chatbot based on a RAG system. He can answer customer questions, sol
 
 I have developed a voice assistant that recognizes speech commands from a predefined list, generates text responses using a language model, and converts them to speech via TTS. It includes microphone input capture in a browser, transcription, response generation, and voice output. The main feature is the use of specialized multilingual and Russian-focused models (**Whisper** for ASR, **Saiga Llama** for natural responses, and **Silero** for TTS), enabling seamless handling of Russian speech and text without relying on proprietary APIs. This setup is ideal for creating localized voice AI prototypes and experimenting with open-source speech technologies in cloud environments.
 
-**Tehnology Stack: Python, Whisper large-v3, Saiga Llama-3-8B.**
+**Tehnology Stack: Python, Whisper, Saiga Llama, Silero.**
 
 [**Link to the project.**](https://github.com/ArtemMusienko/Voice-Assistant-with-TTS)
 
