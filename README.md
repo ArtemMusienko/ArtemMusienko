@@ -1,9 +1,6 @@
-
 <div align="center">
 
-# Good afternoon! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Artem Musienko
-
-## ML-engineer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Artem+Musienko+👋;ML-Engineer;Always+learning+new+things+%F0%9F%A7%A0)
 
 </div>
 
