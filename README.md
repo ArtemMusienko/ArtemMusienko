@@ -29,7 +29,7 @@ Main tehnology stack
 
 </div>
 
-### 📌 LoRA SD Generator
+### 🟢 LoRA SD Generator
 
 I have developed a project that demonstrates a full pipeline for fine-tuning **Stable Diffusion 1.5** using **LoRA** on the **CelebA** dataset to generate stylized faces from text descriptions. It includes automated data preparation (downloading, resizing, **BLIP** captions), model training, quality evaluation, and a **Gradio** web interface for text-to-image and img2img generation. The main feature is a low hardware threshold: **LoRA** with optimizations enables training on 4–6 GB VRAM GPUs, avoiding the 24 GB needed for full fine-tuning, while yielding high-quality results in a small **LoRA** file. This setup is ideal for experiments and learning **LoRA** on limited hardware.
 
@@ -39,7 +39,7 @@ I have developed a project that demonstrates a full pipeline for fine-tuning **S
 
 ----------
 
-### 📌 OpenRouter chat authorization
+### 🟢 OpenRouter chat authorization
 
 I have developed a chat application that integrates with **OpenRouter.a**i , providing unified access to dozens of powerful artificial intelligence models using a single API key. The application supports PIN-based secure login and API key protection, automatic loading of available models at startup, a searchable drop-down list for selecting a model, real-time account balance display, and full compatibility with **OpenAI** query formats for smooth switching between vendors without changing the code. This setting is ideal for testing and comparing models.
 
@@ -49,7 +49,7 @@ I have developed a chat application that integrates with **OpenRouter.a**i , pro
 
 ----------
 
-### 📌 YOLOv8 vehicle detection
+### 🟢 YOLOv8 vehicle detection
 
 I have developed the **YOLOv8** model to detect vehicles in low light conditions. To improve recognition accuracy, the model is trained on specially prepared images that simulate different levels of illumination. This allows you to improve object recognition in real conditions. The dataset structure is flexible: in addition to augmented data, you can include original images, which will positively affect the quality of the model. Additional tests were also conducted and optimization techniques were applied, which significantly improved code performance.
 
@@ -59,7 +59,7 @@ I have developed the **YOLOv8** model to detect vehicles in low light conditions
 
 ----------
 
-### 📌 Technical consultant in the RAG system
+### 🟢 Technical consultant in the RAG system
 
 I have developed a **RAG** system in the form of a technical consultant neural worker, focusing on analyzing and processing data from a knowledge base (**Google** document). Implemented output filtering and solutions for key issues: data cleanup to eliminate missing content, resorting for accurate context extraction, parallel processing for scalability, and **LLM** security measures. This allowed for in-depth query analysis and the provision of relevant responses.
 
@@ -69,7 +69,7 @@ I have developed a **RAG** system in the form of a technical consultant neural w
 
 ----------
 
-### 📌 Neuro employee with LangChain
+### 🟢 Neuro employee with LangChain
 
 I created a chatbot based on a RAG system. He can answer customer questions, solve their problems, and provide information about the products and services offered by the online store. The chatbot uses a token counting algorithm, which allows you to save money and not use **OpenAI**. 
 
@@ -79,7 +79,7 @@ I created a chatbot based on a RAG system. He can answer customer questions, sol
 
 ----------
 
-### 📌 Voice Assistant with TTS
+### 🟢 Voice Assistant with TTS
 
 I have developed a voice assistant that recognizes speech commands from a predefined list, generates text responses using a language model, and converts them to speech via TTS. It includes microphone input capture in a browser, transcription, response generation, and voice output. The main feature is the use of specialized multilingual and Russian-focused models (**Whisper** for ASR, **Saiga Llama** for natural responses, and **Silero** for TTS), enabling seamless handling of Russian speech and text without relying on proprietary APIs. This setup is ideal for creating localized voice AI prototypes and experimenting with open-source speech technologies in cloud environments.
 
@@ -89,13 +89,15 @@ I have developed a voice assistant that recognizes speech commands from a predef
 
 ----------
 
-### 📌 BipedalWalker v3 with DDPQ and PPO
+### 🟢 BipedalWalker v3 with DDPQ and PPO
 
 For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
 
 **Tehnology Stack: PyTorch, gymnasium, DDPQ, PPO.**
 
 [**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
+
+----------
 
 <div align="center">
 
