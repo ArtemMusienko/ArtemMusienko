@@ -12,9 +12,14 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 -   ✉️ You can contact me at by [email](mailto:temich2001@yandex.ru) or [Telegram](https://t.me/mus1enko_a);
 -   🧠 I'm learning Python, SQL and how neural networks work;
 -   🤝 I'm open to collaborating on for startups in ML and Kaggle/LeetCode competitions;
--   ⚡ [Resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg), [LeetCode](https://leetcode.com/u/artemmusienko/).
+-   ⚡ You can read my [resume](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg) for more details.
 
 <div align="center">
+
+LeetCode statistics
+------------------------
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/artemmusienko?theme=dark&font=Roboto&ext=heatmap)
  
 Main tehnology stack
 ------------------------
