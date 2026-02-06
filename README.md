@@ -99,6 +99,8 @@ For the BipedalWalker v3 gaming environment, I have developed two learning metho
 
 <div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemMusienko&theme=react-dark&hide_border=true&area=true&bg_color=0a0f0a&color=ffffff&title_color=00ff9d&line=00ff41&point=39ff14&area_color=7fff00)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## Education and courses
 
 </div>
