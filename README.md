@@ -16,16 +16,18 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 
 <div align="center">
 
-LeetCode statistics
+![LeetCode statistics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=LeetCode+statistics+📊&repeat=false)
 ------------------------
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/artemmusienko?theme=dark&font=Roboto&ext=heatmap)
  
-Main tehnology stack
+![Main tehnology stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=Main+tehnology+stack+⚙️&repeat=false)
 ------------------------
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LoRA](https://img.shields.io/badge/LoRA-green?style=for-the-badge)
 
-## Main projects
+![Main projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=Main+project+🚀&repeat=false)
+------------------------
 
 </div>
 
@@ -103,7 +105,7 @@ For the BipedalWalker v3 gaming environment, I have developed two learning metho
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemMusienko&theme=react-dark&hide_border=true&area=true&bg_color=0a0f0a&color=ffffff&title_color=00ff9d&line=00ff41&point=39ff14&area_color=7fff00)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## Education and courses
+![Education and courses](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=Education+and+courses+🎓&repeat=false)
 
 </div>
 
