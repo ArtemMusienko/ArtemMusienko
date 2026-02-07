@@ -19,7 +19,7 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 ![LeetCode statistics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=LeetCode+statistics+📊&repeat=false)
 ------------------------
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/artemmusienko?theme=dark&font=Roboto&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/artemmusienko?theme=dark&font=Roboto&)
  
 ![Main tehnology stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=Main+tehnology+stack+⚙️&repeat=false)
 ------------------------
