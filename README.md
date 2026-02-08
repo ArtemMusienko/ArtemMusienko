@@ -19,6 +19,12 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 ![LeetCode statistics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=LeetCode+statistics+📊&repeat=false)
 ------------------------
 
+</div>
+
+I suggest you check out my profile on [LeetCode](https://leetcode.com/u/artemmusienko/). I am currently actively working on the topic of "**Database**" and publishing my solutions. I will be glad to receive comments on my solutions.
+
+<div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/artemmusienko?theme=dark&font=Roboto&)
  
 ![Main tehnology stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&color=39FF14&center=true&vCenter=true&width=700&lines=Main+tehnology+stack+⚙️&repeat=false)
