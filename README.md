@@ -94,16 +94,6 @@ I have developed a voice assistant that recognizes speech commands from a predef
 
 ----------
 
-### 🟢 BipedalWalker v3 with DDPQ and PPO
-
-For the BipedalWalker v3 gaming environment, I have developed two learning methods: DDPQ and PPO. The study identified the most effective method for this environment — DDPQ. This approach demonstrated the best learning outcomes and showed positive dynamics on the graph.
-
-**Tehnology Stack: PyTorch, gymnasium, DDPQ, PPO.**
-
-[**Link to the project.**](https://github.com/ArtemMusienko/BipedalWalker-v3-with-DDPQ-and-PPO/tree/main)
-
-----------
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtemMusienko&theme=react-dark&hide_border=true&area=true&bg_color=0a0f0a&color=ffffff&title_color=00ff9d&line=00ff41&point=39ff14&area_color=7fff00)](https://github.com/Ashutosh00710/github-readme-activity-graph)
