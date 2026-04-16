@@ -1,5 +1,7 @@
 <div align="center">
 
+[![ru](https://img.shields.io/badge/README_на_русском-2A2C39?style=for-the-badge&logo=github&logoColor=white)](README.ru.md)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Artem+Musienko;ML-Engineer+🧠;Always+learning+new+things+%F0%9F%8C%B1)
 
 </div>
