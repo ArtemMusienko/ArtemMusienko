@@ -6,13 +6,13 @@
 
 </div>
 
-My journey into **IT** started in **2018**, when I began studying at **Don State Technical University** :mortar_board:. I recently completed the Neural Network Developer course, where I studied the latest developments in this field :computer:. I am also working on improving my English skills, and my current level is **B1** :books:.
+My journey in **IT** began in **2018** when I enrolled in **Don State Technical University** :mortar_board:. Recently, I completed the course **"Neural Network Developer"** , where I studied the latest advancements in this field :computer:. Currently, I am engaged in the development and implementation of AI at **Steppe Agroholding** . I am also working on improving my English skills, and my current level is **B1** :books:.
 
 **My goal** is to become a highly qualified specialist in the field of machine learning  :bulb:. ML arouses my great interest and desire to grow in this direction. I have many interesting repositories that can be viewed in my profile. It will be interesting for me to discuss them with you and get your assessment :memo:!
 
 -   🌍 I'm based in Russia, Rostov-on-Don;
 -   ✉️ You can contact me at by [**email**](mailto:temich2001@yandex.ru) or [**Telegram**](https://t.me/mus1enko_a);
--   🧠 I'm learning Python, SQL and how neural networks work;
+-   🧠 I'm studying the principles of neural networks, Python, and SQL;
 -   🤝 I'm open to collaborating on for startups in ML and Kaggle/LeetCode competitions;
 -   ⚡ You can read my [**resume**](https://disk.yandex.ru/i/G1Vbxd-pHIJYjg) for more details.
 
@@ -23,7 +23,7 @@ My journey into **IT** started in **2018**, when I began studying at **Don State
 
 </div>
 
-I suggest you check out my profile on [**LeetCode**](https://leetcode.com/u/artemmusienko/). I am currently actively working on the topic of "**Database**" and publishing my solutions. I will be glad to receive comments on my solutions.
+I suggest you check out my profile on [**LeetCode**](https://leetcode.com/u/artemmusienko/). I will be glad to receive comments on my solutions.
 
 <div align="center">
 
